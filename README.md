@@ -11,10 +11,17 @@ Nessa atividade usamos um botão como entrada para controlar um LED. Ao clicar n
 
 Componentes
 1	Placa Arduino UNO
+
 1	Cabo USB
+
 1	Protoboard
+
 1	Resistor de 200 Ω ou 220 Ω
+
 1	Resistor de 10 kΩ
+
 1	Botão tipo botão de pressão
+
 1	LED vermelho 
+
 —	Fios de jumper macho-macho
