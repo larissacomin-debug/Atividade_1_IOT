@@ -10,6 +10,7 @@ Nessa atividade usamos um botão como entrada para controlar um LED. Ao clicar n
 - Controla o led pelo pino 10.
 
 *Componentes*
+
 1	Placa Arduino UNO
 
 1	Cabo USB
