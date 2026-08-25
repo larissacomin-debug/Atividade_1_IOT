@@ -9,7 +9,7 @@ Nessa atividade usamos um botão como entrada para controlar um LED. Ao clicar n
 - O Arduino lê o estado do botão pelo pino 7.
 - Controla o led pelo pino 10.
 
-Componentes
+*Componentes*
 1	Placa Arduino UNO
 
 1	Cabo USB
@@ -24,4 +24,4 @@ Componentes
 
 1	LED vermelho 
 
-—	Fios de jumper macho-macho
+Fios de jumper macho-macho
